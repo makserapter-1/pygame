@@ -1,0 +1,3 @@
+To move space ship : Left arrow - Left Right arrow - Right 
+To shoot : Press space
+After you rich lvl 50: new enemies spawn and they  move faster and you get 2x points
